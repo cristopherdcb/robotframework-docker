@@ -1,5 +1,7 @@
 FROM fedora:21
 
+MAINTAINER Cristopher Castillo
+
 ENV WORKDIR /home
 
 WORKDIR ${WORKDIR}
